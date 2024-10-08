@@ -224,10 +224,8 @@ Click on the "Sync Changes" button in the Source Control view
 
 ## Common Scenarios 
 - Merging latest changes: https://learngitbranching.js.org/?gist_level_id=8a76ab5156b88c40d8778c0fd4994eea 
-- Pushing latest changes (Merge workflow): https://learngitbranching.js.org/?gist_level_id=9aa3172377e9fef2f6f988c149cd5c87 
-- Merging latest changes: https://learngitbranching.js.org/?gist_level_id=8a76ab5156b88c40d8778c0fd4994eea 
-Pushing latest changes (Merge workflow): https://learngitbranching.js.org/?gist_level_id=9aa3172377e9fef2f6f988c149cd5c87 
-Pushing latest changes (Rebase workflow): https://learngitbranching.js.org/?gist_level_id=51d417518efefdb6f5acefdfa22d7d73Pushing latest changes (Rebase workflow): https://learngitbranching.js.org/?gist_level_id=51d417518efefdb6f5acefdfa22d7d73
+- Pushing latest changes (Merge workflow): https://learngitbranching.js.org/?gist_level_id=9aa3172377e9fef2f6f988c149cd5c87
+- Pushing latest changes (Rebase workflow): https://learngitbranching.js.org/?gist_level_id=51d417518efefdb6f5acefdfa22d7d73
 
 ## Conclusion
 
